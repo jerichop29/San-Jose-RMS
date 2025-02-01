@@ -1,0 +1,90 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+div.p-absolute-login{
+    position: absolute;
+    width: 350px;
+    top: 0;
+    right: 0;
+    right: 50px;
+    top: 190px;
+}
+div.p-absulute-system-title{
+    position: absolute;
+    width: 600px;
+    top: 0;
+    left: 0;
+    left: 100px;
+    top: 220px;
+  }
+.text-white{
+    color: white;
+}
+.p-absulute-system-title .txt1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #000;
+}
+.p-absulute-system-title .txt2{
+    margin-top: 45px;
+    font-size: 20px;
+    text-shadow: 2px 2px 4px #000;
+}
+.colr {
+    color: rgb(9, 243, 9);
+}
+.letter {
+    padding-top: 8px;
+}
+.txt3 {
+    font-style: italic;
+    text-shadow: 2px 2px 4px #000;
+}
+div.p-absolute-reserve{
+    position: absolute;
+    top: 90px;
+    left: 0;
+    right: 0;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 1000px;
+}
+div.p-absolute-reserve-result{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto; 
+    margin-right: auto;
+    width: auto;
+}
+.mt{
+    margin-top: 24px;
+}
+.mt-4{
+    margin-top:4px;
+}
+.mb-4{
+    margin-bottom:4px;
+}
+.bb{
+    border-bottom: solid gray 1px;
+}
+#dropdown-width{
+    width: 150px;
+    text-shadow: none;
+}
+.btn:focus, .btn:active, button:focus, button:active {
+    outline: none !important;
+    box-shadow: none !important;
+} 
+#image-gallery .modal-footer{
+    display: block;
+}
+.thumb{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
